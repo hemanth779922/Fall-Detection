@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+scikit-learn
+numpy
+joblib
+twilio
+langchain
+langchain-openai
+streamlit
