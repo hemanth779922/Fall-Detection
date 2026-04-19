@@ -12,9 +12,9 @@ SEND_REAL_SMS = True  # Set to True to use Twilio, False for mock SMS printed to
 ALERT_PHONE_NUMBER = "+917799224371"  # Predefined mobile number for SOS
 
 # API Keys and Credentials
-TWILIO_ACCOUNT_SID = "REMOVED_SID"
-TWILIO_AUTH_TOKEN = "REMOVED_TOKEN"
-TWILIO_FROM_NUMBER = "REMOVED_PHONE"
+TWILIO_ACCOUNT_SID = ""
+TWILIO_AUTH_TOKEN = ""
+TWILIO_FROM_NUMBER = ""
 
 # n8n Integration Settings
 USE_N8N = False  # Turned off since the webhook is currently returning 404
