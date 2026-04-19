@@ -1,11 +1,6 @@
+streamlit
 opencv-python-headless
-mediapipe
-scikit-learn
 numpy
+scikit-learn
 joblib
 twilio
-langchain
-langchain-openai
-streamlit
-ultralytics
-
